@@ -1,0 +1,33 @@
+#include <stdio.h>
+int tamañoTableroFilas = 0;
+
+char tablero[0][0]{
+    
+}
+
+void inicializrTablero(){
+    for(int 1 = 0; 1 < tamañoTablerosColumnas; i++){
+        for int 1 = 0; 1 < tamañoTablerosColumnas; i++){
+            printf("%c", tablero[1][1]);
+        } 
+        printf("\n");
+        
+    }
+}
+int main()
+{
+   //inicializar el tablero y mostrarlo
+   inicializarTablero();
+   mostrarTablero();
+   ponerFicha();
+   mostrarTablero();
+   
+   
+  
+   }
+   
+   
+   
+   
+    return 0;
+}

@@ -1,0 +1,17 @@
+void ponerFicha(){
+       int columna;
+       int jugador = 1;
+       printf("jugador 1 ingrese la ficha en el tablero")
+       scanf("%d",&columna);
+       
+       if(columna < = [] columna >= tamañoTableroColumnas){
+           printf("columna invertida, intente de nuevo\n");
+           return;
+       }
+           for(int 1 = tamañoTableroFilas - 1 >= 0; i--){
+               if tablero(!)(columna) == ''){
+                   tablero(!)(columna) = 0;
+               break;
+                   
+           }
+            
